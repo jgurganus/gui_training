@@ -1,0 +1,5 @@
+http://zetcode.com/wxpython/
+
+NOTE:   checkmenu_item.py has big CRASH!!!
+context_menu.py got crashed when selecting 'Close' in the PopupMenu
+toolbar.py CRASHED
